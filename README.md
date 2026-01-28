@@ -2,9 +2,34 @@
 
 ## About Me
 
-I'm a software developer with a passion for quantitative finance and data-driven decision making. I enjoy building systems that combine machine learning with real-world applications.
+I'm a software developer specializing in AI/ML systems, NLP, and quantitative finance. I build production systems that combine machine learning with real-world applications.
 
-## Current Projects
+## Professional Work
+
+### Dash2Labs - AI Chatbot Platform
+Creator and lead developer of an enterprise AI chatbot platform with domain-specific implementations:
+
+**Domain-Specific Chatbots:**
+- **Bobby** - Law enforcement intelligence assistant
+- **Robert / Goddard** - Aerospace manufacturing support
+- **Augie** - HIPAA-compliant healthcare assistant
+- **Zia / NewMexicoState** - State government services
+- **Wright** - Airport operations (Sunport)
+- **Orion** - Space Valley Foundation
+
+**Platform Infrastructure:**
+- **FileProcessor** - Document processing microservice with embeddings for RAG
+- **AuthServer** - Authentication and authorization services
+- **chatbot_backend / chatbot_middleend / chatbot_ui** - Full-stack chatbot architecture
+- **client-server-library** - Shared library functions
+
+**ML/NLP Research:**
+- NLP extraction and preprocessing systems
+- Embedding model training pipelines
+- Contrastive learning for policy analysis
+- Agentic AI systems
+
+## Personal Projects
 
 ### Quantitative Trading System
 A machine learning-powered stock trading platform that:
@@ -16,17 +41,19 @@ A machine learning-powered stock trading platform that:
 
 ## Technical Skills
 
-**Languages:** Python, SQL
+**Languages:** Python, SQL, JavaScript
 
-**ML/Data:** XGBoost, LightGBM, scikit-learn, pandas, NumPy
+**AI/ML:** LLMs, RAG, Embeddings, XGBoost, LightGBM, scikit-learn
+
+**NLP:** Document extraction, Sentiment analysis, Text classification
+
+**Infrastructure:** MongoDB, Microservices, REST APIs, Docker
 
 **Finance:** Alpaca API, SEC EDGAR, Technical Analysis
-
-**Infrastructure:** MongoDB, Git, Windows Task Scheduler
 
 ## Connect
 
 Feel free to explore my repositories and reach out for collaboration opportunities.
 
 ---
-*Building at the intersection of software engineering and quantitative finance*
+*Building AI systems that solve real-world problems*
